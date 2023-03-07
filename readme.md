@@ -33,4 +33,4 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>)](https://www.linkedin.com/in/leandro-miguel-oliva-torres-b696aa197/) 
+<a href="https://www.linkedin.com/in/leandro-miguel-oliva-torres-b696aa197" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="git" width="40" height="40"/> </a>
